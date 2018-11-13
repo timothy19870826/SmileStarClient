@@ -1,0 +1,8 @@
+<res>
+   <item name="smileStar/textinput.png" type="TextInput" compress="0" pack="0" quality="80" props="sizeGrid=8,8,8,8" picType="0" scale="0"/>
+   <item name="smileStar/color_41daf8.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=8,8,8,8" picType="0" scale="0"/>
+   <item name="smileStar/color_999999.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=8,8,8,8" picType="0" scale="0"/>
+   <item name="smileStar/color_d9d9d9.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=8,8,8,8" picType="0" scale="0"/>
+   <item name="smileStar/color_efefef.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=8,8,8,8" picType="0" scale="0"/>
+   <item name="smileStar/color_ffffff.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=8,8,8,8" picType="0" scale="0"/>
+</res>
